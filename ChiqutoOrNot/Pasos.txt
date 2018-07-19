@@ -20,4 +20,6 @@ Crear carpetas
 		/chiquito
 		/not
 
+Quitar imágenes que dan error por formatos (.gib, 8bit de profundidad de color)
+
 	
