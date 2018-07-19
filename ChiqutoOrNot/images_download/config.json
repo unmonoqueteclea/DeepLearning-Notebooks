@@ -1,0 +1,10 @@
+{
+    "Records": [
+        {
+            "keywords": "chiquito de la calzada",
+            "limit": 800,
+            "print_urls": true,
+            "chromedriver":"C:\\Users\\pablogonzalez\\Documents\\chromedriver.exe"
+        }
+    ]
+}

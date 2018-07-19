@@ -1,0 +1,23 @@
+Descargar imagenes Chiquito:
+	Descargo chrome driver
+	https://github.com/hardikvasa/google-images-download
+	- Abro conda terminal
+		- pip install google_images_download
+		- Configuro ruta chrome driver en config.json
+		- googleimagesdownload -cf config.json
+	
+
+Descargar imagenes caras:
+	http://vis-www.cs.umass.edu/lfw/#download
+		http://vis-www.cs.umass.edu/lfw/lfw.tgz
+	- order_images.py  Con este script sacamos un numero determinado de imagenes de las distintas subcarpetas
+
+Crear carpetas
+	dataset/train
+		/chiquito
+		/not
+	dataset/valid
+		/chiquito
+		/not
+
+	
