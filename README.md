@@ -1,4 +1,4 @@
-# DeepLearning Notebooks
+# Deep Learning Notebooks
 Jupyter notebooks with examples of different algorithms of Deep Learning
 
 ## Current notebooks
