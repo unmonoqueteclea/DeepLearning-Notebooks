@@ -8,3 +8,5 @@ image classifier.
 	- More info in [my blog](https://unmonoqueteclea.github.io/deep-learning/chiquito/) 
 	  [IN SPANISH]
 - **LSTM-Music-Generation** Music generation using LSTM networks and MIDI files.
+    - More info in  [my blog](https://unmonoqueteclea.github.io/rnn/lstm/lstm/)
+	  [IN SPANISH]
